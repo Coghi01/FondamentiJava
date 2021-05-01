@@ -2,6 +2,8 @@ package it.unibs.fdp.tamagotchi;
 
 import it.unibs.fdp.mylib.Tastiera;
 
+// questa NON serve più
+
 public class FabbricaTamagotchi {
 
 	public static Tamagotchi creaTamagotchiDaTastiera() {
